@@ -1,0 +1,9 @@
+#wrapper #content-wrapper #content #agenda {
+  flex: 1 0 auto;
+}
+
+#wrapper #content-wrapper #content {
+  background-color: #fcfcfc;
+  color: rgb(0,0,0);
+}
+
