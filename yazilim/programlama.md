@@ -1,8 +1,4 @@
----
-description: Logların index lendiği sayfadır.
----
-
-# 📝İçindekiler
+# 🎈Programlama
 
 
 
@@ -23,14 +19,6 @@ description: Logların index lendiği sayfadır.
    2. Java
    3. Php
 4. Mimari
-{% endtab %}
-
-{% tab title="Network" %}
-## Fundamentals
-{% endtab %}
-
-{% tab title="Grafik" %}
-
 {% endtab %}
 {% endtabs %}
 
