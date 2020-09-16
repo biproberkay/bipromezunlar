@@ -9,7 +9,11 @@
 
 ## ⏺Network
 
-* [🎈Donanım](network/donanim.md)
+* [🎈Donanım](network/donanim/README.md)
+  * [Grafik Kartı](network/donanim/grafik-karti.md)
+  * [Ana Kart](network/donanim/ana-kart.md)
+  * [RAM](network/donanim/ram.md)
+  * [CPU](network/donanim/cpu.md)
 * [🎈İşletim Sistemleri](network/isletim-sistemleri.md)
 * [🎈Sunucular](network/sunucular.md)
 * [🎈CISCO](network/cisco.md)
